@@ -1,1 +1,0 @@
-print("Exponent/Raise function")
