@@ -1,0 +1,1 @@
+print("THis is the first outline of equality teller")
