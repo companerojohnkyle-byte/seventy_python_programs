@@ -1,1 +1,3 @@
-print("This is for printing numbers without 0")
+for i in range (0, 101) :
+    if i % 10 != 0:
+     print(i, "is a number without zero")
