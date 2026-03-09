@@ -1,0 +1,1 @@
+print("This is fo printing all the even numbers")
