@@ -1,0 +1,1 @@
+print("This is for sum of all numbers")
