@@ -1,1 +1,3 @@
-print("this is for difference or minus operation")
+num1 = float(input("Enter the first number: "))
+num2 = float(input("Enter the second number: "))
+print("Result: ", num1 - num2)
