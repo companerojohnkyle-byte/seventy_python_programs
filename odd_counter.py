@@ -1,0 +1,1 @@
+print("This is the outline for odd numbers counter")
