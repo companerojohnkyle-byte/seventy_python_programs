@@ -1,0 +1,1 @@
+print("This is for exception of numbers that has zero and five")
